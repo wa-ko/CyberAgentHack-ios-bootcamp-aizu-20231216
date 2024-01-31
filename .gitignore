@@ -1,0 +1,6 @@
+.DS_Store
+
+# Xcode User settings
+xcuserdata/
+
+homework/day3/Day3Homework/Day3Homework/API/APIKey.plist
